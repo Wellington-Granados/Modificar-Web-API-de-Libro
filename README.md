@@ -20,10 +20,12 @@
 
 ## Modificación del método getLibro
 
-
+![image](https://github.com/Wellington-Granados/Modificar-Web-API-de-Libro/assets/170190822/85a6c67c-4e2b-4f06-9d1b-150ca96a7e31)
 
 ## Controlador Global de Excepciones
 
-
+![image](https://github.com/Wellington-Granados/Modificar-Web-API-de-Libro/assets/170190822/45063bd2-4d97-48c3-9267-bca4c769aa12)
 
 ## Modificación del método postLibro
+
+![image](https://github.com/Wellington-Granados/Modificar-Web-API-de-Libro/assets/170190822/4a3a37e1-1fdb-443c-a911-8fac1e94953b)
